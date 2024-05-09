@@ -105,11 +105,11 @@ ol {
 }
 
 .content__list-item {
-  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
-.content__list-item:first-child {
-  padding-top: 0;
+.content__list-item:last-child {
+  padding-bottom: 0;
 }
 
 .content__video-card-description-container {
